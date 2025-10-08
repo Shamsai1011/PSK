@@ -4,6 +4,7 @@ Write a simple Python program for the modulation and demodulation of PSK and QPS
 # Tools required
 Google colab Python
 # Program
+```
 #PSK 
 import numpy as np
 import matplotlib.pyplot as plt

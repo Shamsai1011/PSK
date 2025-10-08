@@ -141,7 +141,7 @@ plt.show()```
 
 ```
 # Output Waveform
-```
+
 PSK
 ![497709220-c8745dcd-aef8-44ee-85ad-57e1b5db66ff](https://github.com/user-attachments/assets/7fe2c5ca-87b7-4aa3-8799-09a96df29192)
 QPSK
